@@ -1,0 +1,9 @@
+map_customer_orderid_segment('CA-2016-152156','Consumer').
+map_customer_orderid_segment('CA-2016-152156','Consumer').
+map_customer_orderid_segment('CA-2016-138688','Corporate').
+map_customer_orderid_segment('US-2015-108966','Consumer').
+map_customer_orderid_segment('CA-2014-115812','Consumer').
+map_customer_orderid_segment('CA-2014-115812','Consumer').
+map_customer_orderid_segment('CA-2014-115812','Consumer').
+map_customer_orderid_segment('CA-2014-115812','Consumer').
+map_customer_orderid_segment('CA-2014-115812','Consumer').

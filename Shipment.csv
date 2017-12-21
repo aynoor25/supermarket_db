@@ -1,0 +1,10 @@
+Row ID,Order ID,Ship Date,Ship Mode,Country,City,State,Postal Code,Region
+1,'CA-2016-152156','11/11/2016','Second Class','United States','Henderson','Kentucky',42420,'South'
+2,'CA-2016-152156','11/11/2016','Second Class','United States','Henderson','Kentucky',42420,'South'
+3,'CA-2016-138688','6/16/2016','Second Class','United States','Los Angeles','California',90036,'West'
+4,'US-2015-108966','10/18/2015','Standard Class','United States','Fort Lauderdale','Florida',33311,'South'
+5,'CA-2014-115812','10/18/2015','Standard Class','United States','Fort Lauderdale','Florida',33311,'South'
+6,'CA-2014-115812','6/14/2014','Standard Class','United States','Los Angeles','California',90032,'West'
+7,'CA-2014-115812','6/14/2014','Standard Class','United States','Los Angeles','California',90032,'West'
+8,'CA-2014-115812','6/14/2014','Standard Class','United States','Los Angeles','California',90032,'West'
+9,'CA-2014-115812','6/14/2014','Standard Class','United States','Los Angeles','California',90032,'West'
